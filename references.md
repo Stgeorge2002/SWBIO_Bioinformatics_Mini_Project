@@ -1,9 +1,6 @@
 # Software and data references
 
-The versions below match the commands in the analysis runbook. The selected
-SRA Toolkit release is 3.4.1; the exact version used for the original download
-was not recorded. This release includes long-read support, including reads
-longer than 65 kb.
+The versions below match the commands in the analysis.
 
 1. **NCBI BioProject PRJNA1133668.** *Carbapenem-resistant Enterobacterales
    from a New York City Hospital sequencing data.* [NCBI BioProject record](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1133668).
