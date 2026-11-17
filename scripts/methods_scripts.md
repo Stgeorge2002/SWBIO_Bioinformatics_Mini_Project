@@ -1,4 +1,4 @@
-# Ubuntu bacterial-genome analysis commands
+# SWBio bioinformatics mini-project method commands
 
 Use Ubuntu x86-64 with Docker, at least 12 CPU cores, 32 GB RAM, and enough disk
 for the read data, databases, and results. Run the blocks in order from the
