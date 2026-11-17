@@ -1,9 +1,5 @@
 # Ubuntu bacterial-genome analysis commands
 
-This runbook downloads short- and long-read data for the 70 *Klebsiella
-pneumoniae* ST258 isolates selected from BioProject PRJNA1133668. It uses
-individual Docker and command-line steps.
-
 Use Ubuntu x86-64 with Docker, at least 12 CPU cores, 32 GB RAM, and enough disk
 for the read data, databases, and results. Run the blocks in order from the
 same Bash terminal.
